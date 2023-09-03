@@ -36,7 +36,7 @@ public class FilaEncadeada {
                     break;
 
                 default:
-                    System.out.println("Operacai invalida.");
+                    System.out.println("Operacao invalida.");
             }
         }
     }
